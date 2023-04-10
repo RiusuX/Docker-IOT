@@ -3,10 +3,10 @@ import serial
 
 ser = serial.Serial(
     port='/dev/rfcomm0',
-    baudrate=115200,
-    parity=serial.PARITY_ODD,
-    stopbits=serial.STOPBITS_TWO,
-    bytesize=serial.SEVENBITS
+    baudrate=9600,
+    parity=serial.PARITY_NONE,
+    stopbits=serial.STOPBITS_ONE,
+    bytesize=serial.EIGHTNBITS
 )
 
 ser.isOpen()
