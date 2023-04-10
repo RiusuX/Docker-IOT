@@ -6,7 +6,7 @@ ser = serial.Serial(
     baudrate=9600,
     parity=serial.PARITY_NONE,
     stopbits=serial.STOPBITS_ONE,
-    bytesize=serial.EIGHTNBITS
+    bytesize=serial.EIGHTBITS
 )
 
 ser.isOpen()
