@@ -9,7 +9,7 @@
 - **Arduino Scripts:** Scripts optimizados para varios sensores que te permitirán recopilar datos esenciales.
 - **Python Script:** Un script de Python para leer datos a través de comunicación serial en la Raspberry Pi.
 
-## Requisitos
+## Componentes
 
 - Placas Arduino y sensores correspondientes.
 - Módulo Bluetooth compatible con Arduino HC-05.
