@@ -17,12 +17,12 @@ Welcome to the repository! Here you will find Arduino scripts designed to read d
 - Raspberry Pi 3B with Python and necessary libraries installed.
 ## Schematic
 
-For a visual representation of the system architecture, refer to the schematic diagram provided in the [Schematic](Img/Untitled-2023-03-22-1505.png).
+For a visual representation of the system architecture, refer to the schematic diagram provided in the ![Schematic](Img/Untitled-2023-03-22-1505.png).
 
 ## Testing
 **Node-RED Dashboard:** The Node-RED dashboard was  tested for responsiveness and real-time updates.
 ![Dashboard](Img/2d7600b6-f3c5-4c66-b679-93378a08659a.jpg)
 **MQTT Integration:** MQTT communication was validated by subscribing to and publishing data between different components of the system.
-![Node-red](Img/053ec601-b63f-4b7d-a8a3-cbd59eb100c8.jpg)
+[Node-red](Img/053ec601-b63f-4b7d-a8a3-cbd59eb100c8.jpg)
  **Arduino and Sensors:**
-![Conexion](Img/89f7e296-ad63-4d4b-8fb2-d9899b35ef57.jpg)
+[Conexion](Img/89f7e296-ad63-4d4b-8fb2-d9899b35ef57.jpg)
