@@ -16,6 +16,6 @@
 - Raspberry Pi 3B con Python y las bibliotecas necesarias instaladas.
 - Conexión y configuración adecuadas de Docker para ejecutar el broker MQTT y Node-RED en contenedores.
 
-![Dashboard](img/2d7600b6-f3c5-4c66-b679-93378a08659a.jpg)
-![Node-red](img/053ec601-b63f-4b7d-a8a3-cbd59eb100c8.jpg)
-![Conexion](img/89f7e296-ad63-4d4b-8fb2-d9899b35ef57.jpg)
+![Dashboard](Img/2d7600b6-f3c5-4c66-b679-93378a08659a.jpg)
+![Node-red](Img/053ec601-b63f-4b7d-a8a3-cbd59eb100c8.jpg)
+![Conexion](Img/89f7e296-ad63-4d4b-8fb2-d9899b35ef57.jpg)
