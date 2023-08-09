@@ -17,7 +17,7 @@ Welcome to the repository! Here you will find Arduino scripts designed to read d
 - Raspberry Pi 3B with Python and necessary libraries installed.
 ## Schematic
 
-For a visual representation of the system architecture, refer to the schematic diagram provided in the ![Schematic](Img/Untitled-2023-03-22-1505.png).
+For a visual representation of the system architecture, refer to the schematic diagram provided in the: ![Schematic](Img/Untitled-2023-03-22-1505.png)
 
 ## Testing
 **Node-RED Dashboard:** The Node-RED dashboard was  tested for responsiveness and real-time updates.
